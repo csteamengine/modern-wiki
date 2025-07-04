@@ -9,7 +9,7 @@ parent: Split Keyboard - Mk. 1
 ----
 <span class="label label-yellow">This Page is a Work In Progress | Check Back Soon</span>
 
-<img src="../../img/hermod-mk-1/thumbnail-5.png" alt="hermod-thumbnail"/>
+<img src="/img/thumbnail-5.png" alt="hermod-thumbnail"/>
 This is my very first split keyboard build ever, and while it's far from perfect, it was an amazing learning experience. 
 
 <span class="label label-yellow">Disclaimer:</span>
@@ -81,17 +81,17 @@ There isn't really any information regarding the PCB Assembly process, other tha
 4. Whether you order from PCBWay or solder yourself, you'll likely still need to install the LCD's manually
 	- Start by installing the 5mm standoffs to the display with the M3x10mm bolts
 	  <p align="center">
-		  <img src="img/IMG_6750.jpg" width="200px" />
-		</p>
+		  <img src="/img/IMG_6750.jpg" width="200px" />
+	  </p>
 	  
 	- Install the display onto the PCB. You may need to "thread" the bolts through the PCB bolt holes, depending on the manufacturers tolerances.
 	  <p align="center">
-		  <img src="img/IMG_6751.jpg" width="200px" />
-		</p>
+		  <img src="/img/IMG_6751.jpg" width="200px" />
+	  </p>
 	- Thread the M3 nuts onto the M3x10mm bolts that protrude under the PCB
 	  <p align="center">
-		  <img src="img/IMG_6752.jpg" width="200px" />
-		</p>
+		  <img src="/img/IMG_6752.jpg" width="200px" />
+	  </p>
 	- Solder the LCD into place
 
 ### Assembly
