@@ -10,8 +10,11 @@ parent: Projects
 <img src="../../img/hermod-mk-1/thumbnail-5.png" alt="hermod-thumbnail"/>
 This is my very first split keyboard build ever, and while it's far from perfect, it was an amazing learning experience. 
 
+:::warning
 **Disclaimer:**  
 This DIY split keyboard PCB was designed for personal use and is shared as-is. While it works well for me, it's not a professionally validated design—there may be imperfections or quirks. If you decide to build it, please do so at your own risk. Double-check everything, and make modifications as needed. Happy building!
+:::
+
 ## [Instructions](<1 - Instructions.md>)
 ## Specs
 - Split, Columnar Staggered Layout
