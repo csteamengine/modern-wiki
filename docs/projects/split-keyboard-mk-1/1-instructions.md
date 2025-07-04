@@ -97,7 +97,7 @@ There isn't really any information regarding the PCB Assembly process, other tha
 ### Assembly
 
 1. 3d Prints
-   Start by printing out all the parts listed in the [Printables](<[Printables](https://www.printables.com/model/1303280-custom-split-keyboard-case)>) project. All the parts will fit easily on a standard 200mm x 200mm 3d printer bed and shouldn't need any supports. I used the following parameters
+   Start by printing out all the parts listed in the [Printables](https://www.printables.com/model/1303280-custom-split-keyboard-case) project. All the parts will fit easily on a standard 200mm x 200mm 3d printer bed and shouldn't need any supports. I used the following parameters
 	- PLA
 	- 0.15mm Layer Height
 	- 50% infill
