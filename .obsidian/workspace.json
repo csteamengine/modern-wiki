@@ -111,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hello"
+              "title": "Backlinks"
             }
           },
           {
@@ -201,7 +200,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: yarn start"
+              "title": "Terminal: charliesteenhagen@WK00738:~/Documents/Charlie/modern-wiki"
             }
           }
         ],
@@ -209,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,48 +224,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33e1f46a171e32d9",
+  "active": "3dcc2cec7bc8aa16",
   "lastOpenFiles": [
+    "projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",
+    "projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-right.json",
+    "projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-numpad.json",
+    "projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-left.json",
+    "projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
+    "projects/0002 - Split Keyboard - Mk. 1/img/IMG_6751.jpg",
+    "projects/0002 - Split Keyboard - Mk. 1/img",
+    "projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
+    "projects/0002 - Split Keyboard - Mk. 1/2 - KLE Configs.md",
+    "projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
+    "projects/0002 - Split Keyboard - Mk. 1",
+    "projects/0001 - DIY Keyboard.md",
+    "projects/0000 - Projects.md",
+    "projects",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-right.json",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-numpad.json",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/img/IMG_6751.jpg",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-left.json",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/2 - KLE Configs.md",
+    "docs/projects/0002 - Split Keyboard - Mk. 1/img",
+    "docs/projects/0001 - DIY Keyboard.md",
+    "docs/projects/0000 - Projects.md",
+    "docs/hello.md",
     "docs/split-keyboard/Heyyyyy.md",
     "docs/Topics/CNC Machining/img/Pasted image 20250601111306.png",
-    "docs/Topics/CNC Machining/img",
     "docs/Topics/CNC Machining/2 - Choosing The Right Bit.md",
     "docs/Topics/CNC Machining/1 - Feeds and Speeds.md",
     "docs/Topics/CNC Machining/0 - CNC Machining.md",
-    "docs/Topics/CNC Machining",
     "docs/Topics/Keyboard Building/4. Choosing Hardware.md",
     "docs/Topics/Keyboard Building/3. Firmware.md",
     "docs/Topics/Keyboard Building/0. Keyboard Building.md",
     "docs/Topics/Keyboard Building/2. PCB Design.md",
     "docs/Topics/Keyboard Building/1. Layout.md",
-    "docs/Topics/Keyboard Building",
     "docs/Topics/Topics.md",
     "docs/Resources/Useful Links.md",
     "docs/Resources/0 - Resources.md",
     "docs/Planning/Hermod Mk. 2/img/screenRecording-000185.png",
-    "docs/Planning/Hermod Mk. 2/img",
     "docs/Planning/Hermod Mk. 2/Overview.md",
-    "docs/Planning/Hermod Mk. 2",
     "docs/Planning/Keyboard - Mk. 3/screenRecording-000175@2x.png",
     "docs/Planning/Keyboard - Mk. 3/screenRecording-000166@2x.png",
     "docs/Planning/Keyboard - Mk. 3/Planning.md",
-    "docs/Planning/Keyboard - Mk. 3/Notes.md",
-    "docs/Planning/Keyboard - Mk. 3",
-    "docs/Planning/Keyboards to Review",
-    "docs/Planning/Laser Cut PCB Stencils/Notes.md",
-    "docs/Planning/Laser Cut PCB Stencils",
-    "docs/Planning/Drum Set/Sound Reactive LEDs/Planning.md",
-    "docs/Planning/Drum Set/Sound Reactive LEDs",
-    "docs/Planning/Drum Set/Refinishing",
-    "docs/Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6751.jpg",
-    "docs/Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
-    "docs/Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",
-    "docs/Projects/0002 - Split Keyboard - Mk. 1/2 - KLE Configs.md",
-    "docs/Projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
-    "docs/Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
-    "docs/Projects/0000 - Projects.md",
-    "docs/Projects/0001 - DIY Keyboard.md",
-    "docs/Notes/CNC Bitsetter and Tool Changes.md",
-    "docs/split-keyboard/index.md"
+    "docs/Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6751.jpg"
   ]
 }

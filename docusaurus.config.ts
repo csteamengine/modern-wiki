@@ -86,9 +86,11 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
+        {to: '/projects', label: 'Projects', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/csteamengine/modern-wiki',
           label: 'GitHub',
           position: 'right',
         },
