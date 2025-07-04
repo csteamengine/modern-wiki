@@ -7,7 +7,9 @@ parent: Split Keyboard - Mk. 1
 # Split Keyboard Mk. I - Instructions
 
 ----
-<span class="label label-yellow">This Page is a Work In Progress | Check Back Soon</span>
+:::warning
+This Page is a Work In Progress | Check Back Soon
+:::
 
 <img src="/img/thumbnail-5.png" alt="hermod-thumbnail"/>
 This is my very first split keyboard build ever, and while it's far from perfect, it was an amazing learning experience. 
