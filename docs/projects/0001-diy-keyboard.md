@@ -5,7 +5,7 @@ nav_order: "0"
 parent: Projects
 ---
 # Project Heimdall
-<img src="../img/heimdall-mk-1/thumbnail-v1.png" alt="ProjectHeimdall"/>
+<img src="/img/thumbnail-v1.png" alt="ProjectHeimdall"/>
 This was my first dive into building DIY mechanical keyboards, and needless to say, it was a huge undertaking. As such, there were so many different videos, wiki's and Discord channels as well as prior knowledge that all came together to allow me to build this keyboard, so I'll do my best to build out a comprehensive list of my sources, but keep in mind it will be constantly growing.
 
 # Getting Started

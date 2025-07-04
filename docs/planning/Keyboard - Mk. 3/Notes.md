@@ -1,5 +1,5 @@
 ## Layout
-<img src="screenRecording-000175@2x.png" />
+<img src="/img/screenRecording-000175@2x.png" />
 ### Features
 - Multiple thumb keys, a single space is a waste of space
 - Arrow keys nested under my right palm
@@ -11,7 +11,7 @@ For this design, I decided I wanted to support more than one kind of switch:
 - Gateron KS-33 (low profile Gateron switches v2)
 - Cherry MX and Gateron Normal profile
 After chatting with some folks on Discord, this is possible to support multiple types of switch with seemingly incompatible footprints by overlapping either the different switches/footprints or combining the two footprints into a single one like this:
-<img src="./screenRecording-000166@2x.png" width="300px"/>
+<img src="/img/screenRecording-000166@2x.png" width="300px"/>
 In this example, these are 2 different `hotswap` footprints that I've manually combined into a single footprint `KS-33_MX_HOTSWAP`.
 - Cherry MX (which Gateron Normal Profile switches fit into)
 - Gateron KS-33 Low Profile Switches
