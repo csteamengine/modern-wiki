@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Modern Hobbyist', // Usually your GitHub org/user name.
+  projectName: 'modern-wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -45,8 +45,8 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          exclude: ['**/private/**'], // ⬅️ Exclude any folder named "private"
+            'https://github.com/csteamengine/modern-wiki',
+          exclude: ['**/private/**', '**/notes/**', '**/Nodes/**', '**/planning/**', '**/planning/**'], // ⬅️ Exclude any folder named "private"
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/csteamengine/modern-wiki',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -82,13 +82,23 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'projectsSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Projects',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'resourcesSidebar',
+          position: 'left',
+          label: 'Resources',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'topicsSidebar',
+          position: 'left',
+          label: 'topics',
         },
         {to: '/projects', label: 'Projects', position: 'left'},
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/csteamengine/modern-wiki',
           label: 'GitHub',
@@ -134,7 +144,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/csteamengine/modern-wiki',
             },
           ],
         },
