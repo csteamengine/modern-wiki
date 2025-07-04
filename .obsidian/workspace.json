@@ -22,23 +22,8 @@
               "icon": "file-question",
               "title": "Readme"
             }
-          },
-          {
-            "id": "7add1e6d06011a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/hello.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hello"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,6 +211,10 @@
   },
   "active": "3dcc2cec7bc8aa16",
   "lastOpenFiles": [
+    "docs/topics/cnc-machining/index.md",
+    "docs/topics/keyboard-building/index.md",
+    "docs/topics/keyboard-building/0-index.md",
+    "docs/topics/keyboard-building/_category_.json",
     "docs/resources/useful-links.md",
     "docs/resources/0-resources.md",
     "static/img/thumbnail-v1.png",
@@ -250,7 +239,6 @@
     "docs/projects/split-keyboard-mk-1",
     "docs/projects/0002 - Split Keyboard - Mk. 1/img/thumbnail-5.png",
     "docs/img/heimdall-mk-1",
-    "docs/img/hermod-mk-1",
     "docs/projects/0002 - Split Keyboard - Mk. 1/index.md",
     "docs/topics/cnc-machining/2-choosing-the-right-bit.md",
     "docs/topics/cnc-machining/1-feeds-and-speeds.md",
@@ -268,9 +256,6 @@
     "docs/projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
     "docs/projects/0001 - DIY Keyboard.md",
     "docs/projects/0000 - Projects.md",
-    "docs/topics/topics.md",
-    "docs/topics/keyboard-building/4-choosing-hardware.md",
-    "docs/topics/keyboard-building/3-firmware.md",
-    "docs/topics/keyboard-building/2-pcb-design.md"
+    "docs/topics/topics.md"
   ]
 }
