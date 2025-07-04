@@ -96,9 +96,8 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'topicsSidebar',
           position: 'left',
-          label: 'topics',
+          label: 'Topics',
         },
-        {to: '/projects', label: 'Projects', position: 'left'},
         {
           href: 'https://github.com/csteamengine/modern-wiki',
           label: 'GitHub',
