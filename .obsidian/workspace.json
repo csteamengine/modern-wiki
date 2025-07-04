@@ -226,6 +226,8 @@
   },
   "active": "3dcc2cec7bc8aa16",
   "lastOpenFiles": [
+    "docs/resources/useful-links.md",
+    "docs/resources/0-resources.md",
     "static/img/thumbnail-v1.png",
     "static/img/thumbnail-5.png",
     "static/img/IMG_6752.jpg",
@@ -247,7 +249,6 @@
     "docs/projects/split-keyboard-mk-1/1-instructions.md",
     "docs/projects/split-keyboard-mk-1",
     "docs/projects/0002 - Split Keyboard - Mk. 1/img/thumbnail-5.png",
-    "docs/projects/0002 - Split Keyboard - Mk. 1/thumbnail-5.png",
     "docs/img/heimdall-mk-1",
     "docs/img/hermod-mk-1",
     "docs/projects/0002 - Split Keyboard - Mk. 1/index.md",
@@ -270,7 +271,6 @@
     "docs/topics/topics.md",
     "docs/topics/keyboard-building/4-choosing-hardware.md",
     "docs/topics/keyboard-building/3-firmware.md",
-    "docs/topics/keyboard-building/2-pcb-design.md",
-    "docs/topics/keyboard-building/1-layout.md"
+    "docs/topics/keyboard-building/2-pcb-design.md"
   ]
 }
