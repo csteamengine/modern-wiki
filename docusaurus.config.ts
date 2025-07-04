@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
+  title: 'Modern Hobbyist',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -74,9 +74,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Modern Hobbyist',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Modern Hobbyist Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -151,8 +151,8 @@ const config: Config = {
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
     prism: {
-      theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+      theme: prismThemes.github,
     },
   } satisfies Preset.ThemeConfig,
 };
