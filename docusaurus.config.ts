@@ -99,6 +99,11 @@ const config: Config = {
           label: 'Topics',
         },
         {
+          href: 'how-i-made-this-wiki',
+          label: 'How I Made This Wiki',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/csteamengine/modern-wiki',
           label: 'GitHub',
           position: 'right',
@@ -112,8 +117,16 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Projects',
+              to: '/docs/projects',
+            },
+            {
+              label: 'Resources',
+              to: '/docs/resources',
+            },
+            {
+              label: 'Topics',
+              to: '/docs/topics',
             },
           ],
         },
@@ -121,16 +134,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/68WXGsjqJp',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'YouTube',
+              href: 'https://youtube.com/ModernHobbyist',
             },
           ],
         },
@@ -138,17 +147,13 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
               href: 'https://github.com/csteamengine/modern-wiki',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Modern Hobbyist. Built with Docusaurus.`,
     },
     prism: {
       darkTheme: prismThemes.dracula,

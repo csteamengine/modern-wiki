@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: home
-nav_order: "1"
+sidebar_position: 0
 ---
 # Projects
 
