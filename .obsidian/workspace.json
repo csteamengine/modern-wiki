@@ -185,7 +185,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: charliesteenhagen@WK00738:~/Documents/Charlie/modern-wiki"
+              "title": "Terminal: zsh"
             }
           }
         ],
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dcc2cec7bc8aa16",
+  "active": "1a88fa5586c62f83",
   "lastOpenFiles": [
     "docs/topics/cnc-machining/index.md",
     "docs/topics/keyboard-building/index.md",
