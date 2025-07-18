@@ -18,3 +18,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Created by https://www.toptal.com/developers/gitignore/api/obsidian
+# Edit at https://www.toptal.com/developers/gitignore?templates=obsidian
+
+### Obsidian ###
+# config dir
+.obsidian/
+
+# End of https://www.toptal.com/developers/gitignore/api/obsidian
