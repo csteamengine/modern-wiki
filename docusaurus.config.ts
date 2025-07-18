@@ -99,7 +99,7 @@ const config: Config = {
           label: 'Topics',
         },
         {
-          href: 'how-i-made-this-wiki',
+          href: '/how-i-made-this-wiki',
           label: 'How I Made This Wiki',
           position: 'right',
         },
